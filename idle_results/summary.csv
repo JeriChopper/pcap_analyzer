@@ -1,0 +1,4 @@
+Device,Protocols,Top DNS Queries,Endpoints,Avg Packets/Min,Avg Interval Seconds
+Tapo C100,_WS.SHORT/ARP/TCP/DATA/CLASSICSTUN,"stun.tplinkcloud.com (352), time-b.nist.gov (12), time-nw.nist.gov (12), au.pool.ntp.org (12), time.nist.gov (12)","104.40.149.189, 108.129.57.81, 119.18.6.37, 128.138.140.44, 129.6.15.28, 129.6.15.29, 13.51.98.178, 131.107.13.100, 132.163.96.4, 132.163.97.1",7.24,8.28
+Wiz Bulb,ICMPV6/ARP/TLS/TCP/DNS,"ntp.wiz.world (13670), eu.mqtt.wiz.world (479)","107.23.3.141, 13.40.182.125, 13.40.94.30, 13.42.41.32, 162.159.200.1, 17.253.38.35, 18.133.139.197, 18.134.134.61, 224.0.0.251, 3.10.212.175",12.2,4.92
+Dusty520WET,DATA/_WS.SHORT/ARP/TCP/DNS,m3-eu.lifeaiot.com (1347),"18.153.6.145, 18.158.227.228, 18.198.62.99, 3.122.134.146, 3.123.124.46, 3.67.116.46, 52.28.144.124, 63.178.174.95, 8.8.8.8, 91.156.246.244",16.23,3.7

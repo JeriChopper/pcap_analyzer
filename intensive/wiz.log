@@ -1,0 +1,5 @@
+nohup: jätetään syöte huomiotta
+tcpdump: listening on wlan0, link-type EN10MB (Ethernet), snapshot length 96 bytes
+703 packets captured
+703 packets received by filter
+0 packets dropped by kernel

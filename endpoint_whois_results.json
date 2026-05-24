@@ -1,0 +1,338 @@
+[
+    {
+        "device": "Dusty520WET",
+        "ip": "18.153.6.145",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "18.158.227.228",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "18.198.62.99",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "3.122.134.146",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "3.123.124.46",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "3.67.116.46",
+        "organization": "AMAZON-FRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "52.28.144.124",
+        "organization": "AMAZO-ZFRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "63.178.174.95",
+        "organization": "AMAZON-FRA",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "8.8.8.8",
+        "organization": "GOGL",
+        "country": null
+    },
+    {
+        "device": "Dusty520WET",
+        "ip": "91.156.246.244",
+        "organization": "ELISA-LAAJAKAISTA",
+        "country": "FI"
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "104.40.149.189",
+        "organization": "MSFT",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "108.129.57.81",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "119.18.6.37",
+        "organization": "WIDEBAND",
+        "country": "AU"
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "128.138.140.44",
+        "organization": "COLORADO",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "129.6.15.28",
+        "organization": "NIST-G",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "129.6.15.29",
+        "organization": "NIST-G",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "13.51.98.178",
+        "organization": "AMAZON-ARN",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "131.107.13.100",
+        "organization": "MICROSOFT",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "132.163.96.4",
+        "organization": "NIST-B",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "132.163.97.1",
+        "organization": "NIST-B",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "132.163.97.6",
+        "organization": "NIST-B",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "162.159.200.123",
+        "organization": "CLOUDFLARENET",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "192.36.144.22",
+        "organization": "D-GIX-LAN",
+        "country": "SE"
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "20.101.57.9",
+        "organization": "MSFT",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "3.252.145.172",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "34.252.195.218",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "43.224.181.207",
+        "organization": "MAMMOTHMEDIA-AP",
+        "country": "AU"
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "52.17.149.191",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "52.210.202.201",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "52.211.228.231",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "52.48.202.169",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "52.51.22.235",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "54.171.171.184",
+        "organization": "AMAZON",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "54.228.49.226",
+        "organization": "AMAZO-ZL3",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "63.35.213.245",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "63.35.227.34",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "8.8.4.4",
+        "organization": "GOGL",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "8.8.8.8",
+        "organization": "GOGL",
+        "country": null
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "85.76.38.207",
+        "organization": "SL-CGN",
+        "country": "FI"
+    },
+    {
+        "device": "Tapo C100",
+        "ip": "91.156.246.244",
+        "organization": "ELISA-LAAJAKAISTA",
+        "country": "FI"
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "107.23.3.141",
+        "organization": "AMAZON-EC2-8",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "13.40.182.125",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "13.40.94.30",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "13.42.41.32",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "162.159.200.1",
+        "organization": "CLOUDFLARENET",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "17.253.38.35",
+        "organization": "APPLE-WWNET",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "18.133.139.197",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "18.134.134.61",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "3.10.212.175",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "3.255.162.70",
+        "organization": "AMAZON-DUB",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "3.8.121.220",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "35.176.149.124",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "35.178.178.65",
+        "organization": "AMAZON-LHR",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "52.90.150.81",
+        "organization": "AT-88-Z",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "54.166.92.152",
+        "organization": "AMAZON",
+        "country": null
+    },
+    {
+        "device": "Wiz Bulb",
+        "ip": "54.194.117.106",
+        "organization": "AMAZO-ZDUB5",
+        "country": null
+    }
+]

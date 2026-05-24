@@ -1,0 +1,14 @@
+{
+    "device": "Wiz Bulb",
+    "new_dns_queries": [],
+    "new_endpoints": [
+        "13.222.174.26",
+        "162.159.200.123",
+        "34.227.161.199",
+        "34.247.164.25"
+    ],
+    "new_protocols": [],
+    "traffic_spikes_detected": 16,
+    "idle_avg_packets_per_min": 12.2,
+    "intensive_total_packets": 703
+}

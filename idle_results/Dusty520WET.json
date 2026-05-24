@@ -1,0 +1,35 @@
+{
+    "device": "Dusty520WET",
+    "phase": "idle",
+    "mac": "f8:17:2d:4a:5d:21",
+    "total_packets": 172975,
+    "protocols": {
+        "_WS.SHORT": 21616,
+        "ICMP": 105,
+        "ARP": 19174,
+        "TCP": 17898,
+        "TLS": 859,
+        "DATA": 111976,
+        "DNS": 1347
+    },
+    "dns_queries": [
+        "m3-eu.lifeaiot.com"
+    ],
+    "dns_query_frequency": {
+        "m3-eu.lifeaiot.com": 1347
+    },
+    "endpoints": [
+        "18.153.6.145",
+        "18.158.227.228",
+        "18.198.62.99",
+        "3.122.134.146",
+        "3.123.124.46",
+        "3.67.116.46",
+        "52.28.144.124",
+        "63.178.174.95",
+        "8.8.8.8",
+        "91.156.246.244"
+    ],
+    "avg_packets_per_min": 16.23,
+    "avg_interval_seconds": 3.7
+}

@@ -1,0 +1,12 @@
+{
+    "device": "Tapo C100",
+    "new_dns_queries": [],
+    "new_endpoints": [
+        "54.194.114.103",
+        "54.76.150.87"
+    ],
+    "new_protocols": [],
+    "traffic_spikes_detected": 8,
+    "idle_avg_packets_per_min": 7.24,
+    "intensive_total_packets": 98732
+}

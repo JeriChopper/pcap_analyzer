@@ -1,0 +1,11 @@
+{
+    "device": "Dusty520WET",
+    "new_dns_queries": [],
+    "new_endpoints": [],
+    "new_protocols": [
+        "IPDC"
+    ],
+    "traffic_spikes_detected": 26,
+    "idle_avg_packets_per_min": 16.23,
+    "intensive_total_packets": 922
+}
